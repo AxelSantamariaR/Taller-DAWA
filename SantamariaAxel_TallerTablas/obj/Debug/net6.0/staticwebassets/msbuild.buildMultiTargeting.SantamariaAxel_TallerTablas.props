@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SantamariaAxel_TallerTablas.props" />
+</Project>
